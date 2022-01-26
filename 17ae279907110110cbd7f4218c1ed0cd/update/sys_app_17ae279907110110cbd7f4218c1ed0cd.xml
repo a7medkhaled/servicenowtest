@@ -13,7 +13,7 @@
         <license_definition/>
         <license_model>none</license_model>
         <logo/>
-        <menu/>
+        <menu display_value="NHC">a6adbf1507510110cbd7f4218c1ed0bb</menu>
         <name>NHC Employee Service Mang.</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -29,13 +29,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-26 13:36:46</sys_created_on>
         <sys_id>17ae279907110110cbd7f4218c1ed0cd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-26 14:10:20</sys_updated_on>
+        <sys_updated_on>2022-01-26 14:43:20</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role/>
+        <user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
