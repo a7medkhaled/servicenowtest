@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_729616_nhc_emplo.company_buildings_user" name="x_729616_nhc_emplo.company_buildings_user">de55b7dd07110110cbd7f4218c1ed01d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 14:05:55</sys_created_on>
+        <sys_id>de55f35107510110cbd7f4218c1ed060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>de55b7dd07110110cbd7f4218c1ed01d</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_de55f35107510110cbd7f4218c1ed060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 14:05:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
