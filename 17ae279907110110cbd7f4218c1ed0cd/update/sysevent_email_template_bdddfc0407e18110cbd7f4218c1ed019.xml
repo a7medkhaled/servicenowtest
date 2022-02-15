@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_729616_nhc_emplo_employee_request</collection>
+        <email_layout/>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text><![CDATA[Created by: ${sys_created_by}
+
+Request Title: ${request_title}
+
+your request was added successfully 
+
+Thank you.]]></message_text>
+        <name>Request Inserted</name>
+        <sms_alternate/>
+        <subject>Your Request was added successfully</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-03 13:50:01</sys_created_on>
+        <sys_id>bdddfc0407e18110cbd7f4218c1ed019</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Request Inserted</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_update_name>sysevent_email_template_bdddfc0407e18110cbd7f4218c1ed019</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 13:51:54</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

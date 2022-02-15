@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">5f75910807258110cbd7f4218c1ed009</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-03 15:30:45</sys_created_on>
+        <sys_id>d375910807258110cbd7f4218c1ed00a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5f75910807258110cbd7f4218c1ed009</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_update_name>sys_report_users_groups_d375910807258110cbd7f4218c1ed00a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 15:30:45</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</application>
+        <file_path/>
+        <instance_id>c4c5189d4fadda00152a99701310c795</instance_id>
+        <instance_name>dev19949</instance_name>
+        <name>sys_report_users_groups_d375910807258110cbd7f4218c1ed00a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">5f75910807258110cbd7f4218c1ed009</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-03 15:30:45</sys_created_on><sys_id>d375910807258110cbd7f4218c1ed00a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>5f75910807258110cbd7f4218c1ed009</sys_name><sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package><sys_policy/><sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope><sys_update_name>sys_report_users_groups_d375910807258110cbd7f4218c1ed00a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-03 15:30:45</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>1901420301</payload_hash>
+        <record_name>5f75910807258110cbd7f4218c1ed009</record_name>
+        <reverted_from/>
+        <source>43df355307510110cbd7f4218c1ed058</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-03 15:30:45</sys_created_on>
+        <sys_id>df75910807258110cbd7f4218c1ed00b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ec0359a260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 15:30:45</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>1b759108a325811028914de60d62850b</update_guid>
+        <update_guid_history>1b759108a325811028914de60d62850b:1901420301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-03 15:31:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>11cabf429eeb46a391f9db671f6674d9</sys_id>
+        <sys_metadata>d375910807258110cbd7f4218c1ed00a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5f75910807258110cbd7f4218c1ed009</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_scope_delete display_value="">65d3bcf277a24db0b8edc01a2fb4c100</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_d375910807258110cbd7f4218c1ed00a</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_d375910807258110cbd7f4218c1ed00a">df75910807258110cbd7f4218c1ed00b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 15:31:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

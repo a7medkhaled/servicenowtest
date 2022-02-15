@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>false</hide_empty_sections>
+        <name>New launcher</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-08 11:50:48</sys_created_on>
+        <sys_id>0a131e2507614110cbd7f4218c1ed0ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>landing page</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_0a131e2507614110cbd7f4218c1ed0ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-08 11:50:48</sys_updated_on>
+        <title>landing page</title>
+    </sys_sg_applet_launcher>
+</record_update>

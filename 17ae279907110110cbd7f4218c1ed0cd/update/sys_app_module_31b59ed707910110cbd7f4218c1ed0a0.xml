@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NHC">a6adbf1507510110cbd7f4218c1ed0bb</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>My Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_729616_nhc_emplo_employee_request</name>
+        <order>90</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>&amp;&amp;sysparm_fixed_query=opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-01 12:20:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31b59ed707910110cbd7f4218c1ed0a0</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>My Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_update_name>sys_app_module_31b59ed707910110cbd7f4218c1ed0a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 15:25:04</sys_updated_on>
+        <timeline_page/>
+        <title>My Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

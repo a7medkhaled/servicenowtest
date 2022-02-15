@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Employee Request" max_length="40" name="x_729616_nhc_emplo_employee_request" sizeclass="31" type="collection">
+        <element choice="1" dependent="BuildingName" dependent_on_field="BuildingName" label="Building" max_length="32" name="building" reference="x_729616_nhc_emplo_company_buildings" reference_cascade_rule="clear" reference_key="BuildingName" reference_qual="BuildingName" reference_qual_condition="BuildingName" type="reference" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element choice="3" default="1" label="lookup " max_length="4000" name="lookup" reference="question_choice" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="label 1" value="1"/>
+            </choice>
+        </element>
+        <element choice="3" default="خدمات الدعم" label="Request Category" max_length="4000" name="request_category" reference="x_729616_nhc_emplo_employee_request_categories" type="reference">
+            <choice/>
+        </element>
+        <element display="true" label="Request Title" max_length="40" name="request_title" type="string"/>
+    </element>
+</database>

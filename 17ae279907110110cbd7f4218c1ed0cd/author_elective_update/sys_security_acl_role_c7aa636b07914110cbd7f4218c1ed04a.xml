@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 13:06:03</sys_created_on>
+        <sys_id>c7aa636b07914110cbd7f4218c1ed04a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_729616_nhc_emplo_employee_request.x_729616_nhc_emplo.nhc_employee_service_managment_general_role</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_security_acl display_value="x_729616_nhc_emplo_employee_request">c15048a907510110cbd7f4218c1ed0c1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c7aa636b07914110cbd7f4218c1ed04a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 13:06:03</sys_updated_on>
+        <sys_user_role display_value="x_729616_nhc_emplo.nhc_employee_service_managment_general_role" name="x_729616_nhc_emplo.nhc_employee_service_managment_general_role">5eee279907110110cbd7f4218c1ed0e8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</application>
+        <file_path/>
+        <instance_id>c4c5189d4fadda00152a99701310c795</instance_id>
+        <instance_name>dev19949</instance_name>
+        <name>sys_security_acl_role_c7aa636b07914110cbd7f4218c1ed04a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-02 13:06:03</sys_created_on><sys_id>c7aa636b07914110cbd7f4218c1ed04a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_729616_nhc_emplo_employee_request.x_729616_nhc_emplo.nhc_employee_service_managment_general_role</sys_name><sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package><sys_policy/><sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope><sys_security_acl display_value="x_729616_nhc_emplo_employee_request">c15048a907510110cbd7f4218c1ed0c1</sys_security_acl><sys_update_name>sys_security_acl_role_c7aa636b07914110cbd7f4218c1ed04a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-02 13:06:03</sys_updated_on><sys_user_role display_value="x_729616_nhc_emplo.nhc_employee_service_managment_general_role" name="x_729616_nhc_emplo.nhc_employee_service_managment_general_role">5eee279907110110cbd7f4218c1ed0e8</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-133070936</payload_hash>
+        <record_name>x_729616_nhc_emplo_employee_request.x_729616_nhc_emplo.nhc_employee_service_managment_general_role</record_name>
+        <reverted_from/>
+        <source>43df355307510110cbd7f4218c1ed058</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 13:06:03</sys_created_on>
+        <sys_id>06ca276b07914110cbd7f4218c1ed0a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17eba8ac5480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 13:06:03</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4eca276b609141103a1b1c607f0f6a9f</update_guid>
+        <update_guid_history>4eca276b609141103a1b1c607f0f6a9f:-133070936</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_729616_nhc_emplo_employee_request.x_729616_nhc_emplo.nhc_employee_service_mana">cf01fbaf07914110cbd7f4218c1ed06c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 13:33:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0caede8bf82f466587a7b39501884539</sys_id>
+        <sys_metadata>c7aa636b07914110cbd7f4218c1ed04a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_729616_nhc_emplo_employee_request.x_729616_nhc_emplo.nhc_employee_service_managment_general_role</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_scope_delete display_value="">65d3bcf277a24db0b8edc01a2fb4c100</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c7aa636b07914110cbd7f4218c1ed04a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c7aa636b07914110cbd7f4218c1ed04a">06ca276b07914110cbd7f4218c1ed0a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 13:33:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

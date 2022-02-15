@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="trial">3b1027ef07514110cbd7f4218c1ed0d5</sc_cat_item>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 12:21:55</sys_created_on>
+        <sys_id>aba0272307914110cbd7f4218c1ed07e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.trial</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_aba0272307914110cbd7f4218c1ed07e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 12:21:55</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</application>
+        <file_path/>
+        <instance_id>c4c5189d4fadda00152a99701310c795</instance_id>
+        <instance_name>dev19949</instance_name>
+        <name>sc_cat_item_catalog_aba0272307914110cbd7f4218c1ed07e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="trial">3b1027ef07514110cbd7f4218c1ed0d5</sc_cat_item><sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-02 12:21:55</sys_created_on><sys_id>aba0272307914110cbd7f4218c1ed07e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Technical Catalog.trial</sys_name><sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package><sys_policy/><sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope><sys_update_name>sc_cat_item_catalog_aba0272307914110cbd7f4218c1ed07e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-02 12:21:55</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>998668955</payload_hash>
+        <record_name>Technical Catalog.trial</record_name>
+        <reverted_from/>
+        <source>43df355307510110cbd7f4218c1ed058</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 12:21:55</sys_created_on>
+        <sys_id>27a0272307914110cbd7f4218c1ed081</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17eba625d850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 12:21:55</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>aba02723f79141107a821f74fd231080</update_guid>
+        <update_guid_history>aba02723f79141107a821f74fd231080:998668955</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Technical Catalog.trial">ba01ab2307914110cbd7f4218c1ed069</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-02 12:23:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>3956bf71893a4d42848da6f8d4716d44</sys_id>
+        <sys_metadata>aba0272307914110cbd7f4218c1ed07e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.trial</sys_name>
+        <sys_package display_value="NHC Employee Service Mang." source="x_729616_nhc_emplo">17ae279907110110cbd7f4218c1ed0cd</sys_package>
+        <sys_parent display_value="">3b1027ef07514110cbd7f4218c1ed0d5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NHC Employee Service Mang.">17ae279907110110cbd7f4218c1ed0cd</sys_scope>
+        <sys_scope_delete display_value="">65d3bcf277a24db0b8edc01a2fb4c100</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_aba0272307914110cbd7f4218c1ed07e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_aba0272307914110cbd7f4218c1ed07e">27a0272307914110cbd7f4218c1ed081</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-02 12:23:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

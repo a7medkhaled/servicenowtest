@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee Request Categories" max_length="40" name="x_729616_nhc_emplo_employee_request_categories" sizeclass="3" type="collection">
+        <element label="CategoryDescription" max_length="40" name="categorydescription" type="string"/>
+        <element display="true" label="CategoryName" max_length="40" name="categoryname" type="string"/>
+        <element label="Category Responsible" max_length="32" name="category_responsible" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="category_responsible"/>
+        </index>
+    </element>
+</database>
